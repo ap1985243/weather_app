@@ -17,16 +17,21 @@ Technologies Used
     AccuWeather API: Used to fetch the latest weather information for the searched city.
 
 Getting Started
+
 To get started, you can simply clone this repository to your local machine and open the index.html file in your browser. Alternatively, you can also check out the live version of the app hosted on GitHub Pages.
 
 Usage
+
 To use this app, simply type the name of the city that you want to check the weather for in the search bar and hit enter. The app will fetch the latest weather information for that city using the AccuWeather API and display it on the screen.
 
 Demo
+
 A demo of the app can be found at https://your-github-username.github.io/your-repo-name/.
 
 Contributions
+
 Contributions are welcome! If you find a bug or want to add a new feature, feel free to submit a pull request.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
