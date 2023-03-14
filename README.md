@@ -26,7 +26,7 @@ To use this app, simply type the name of the city that you want to check the wea
 
 Demo
 
-A demo of the app can be found at https://your-github-username.github.io/your-repo-name/.
+A demo of the app can be found at https://ap1985243.github.io/weather_app/
 
 Contributions
 
