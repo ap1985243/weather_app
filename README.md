@@ -22,12 +22,14 @@ To get started, you can simply clone this repository to your local machine and o
 
 Usage
 
-To use this app, simply type ![weather-app-photo](https://user-images.githubusercontent.com/40575848/227305055-3789f273-3e8f-40c1-917e-8cdebc94ca7f.png)
+To use this app, simply type 
 the name of the city that you want to check the weather for in the search bar and hit enter. The app will fetch the latest weather information for that city using the AccuWeather API and display it on the screen.
 
 Demo
 
 A demo of the app can be found at https://ap1985243.github.io/weather_app/
+
+![weather-app-photo](https://user-images.githubusercontent.com/40575848/227305055-3789f273-3e8f-40c1-917e-8cdebc94ca7f.png)
 
 Contributions
 
